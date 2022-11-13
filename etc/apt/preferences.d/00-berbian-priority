@@ -1,0 +1,3 @@
+Package: modemmanager
+Pin: version 1.20.0-1
+Pin-Priority: -1
